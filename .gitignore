@@ -1,2 +1,2 @@
 # Excluindo os bin criados para teste
-./GEMP/MaratonasPassadas/*/bin/*
+GEMP/MaratonasPassadas/*/bin/*
