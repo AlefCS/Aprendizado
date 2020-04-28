@@ -1,2 +1,2 @@
-# Aprendizado
-Repo criado para manter aquilo que foi criado durante algum aprendizado, como por exemplo de uma nova linguagem ou framework.
+# Personal-Learning
+This repo was created to concentrate all the codes developed for personal learning.
